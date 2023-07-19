@@ -1,5 +1,18 @@
 # rrweb
 
+## 2.0.0-alpha.10
+
+### Patch Changes
+
+- [#1251](https://github.com/rrweb-io/rrweb/pull/1251) [`bbbfa22`](https://github.com/rrweb-io/rrweb/commit/bbbfa226fc5882a01ecc1607b713f0caf797775e) Thanks [@wfk007](https://github.com/wfk007)! - fix: Resize and MediaInteraction events repeat generated after the iframe appeared
+
+- [#1254](https://github.com/rrweb-io/rrweb/pull/1254) [`d0fbe23`](https://github.com/rrweb-io/rrweb/commit/d0fbe23c632021410a6dd45f9028a9a012467261) Thanks [@mydea](https://github.com/mydea)! - Handle case where `event` is null/undefined
+
+- Updated dependencies [[`c6600e7`](https://github.com/rrweb-io/rrweb/commit/c6600e742b8ec0b6295816bb5de9edcd624d975e)]:
+  - rrweb-snapshot@2.0.0-alpha.10
+  - rrdom@2.0.0-alpha.10
+  - @rrweb/types@2.0.0-alpha.10
+
 ## 2.0.0-alpha.9
 
 ### Patch Changes
